@@ -1,0 +1,14 @@
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\bin\Debug\net10.0\MyCliProject.exe
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\bin\Debug\net10.0\MyCliProject.deps.json
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\bin\Debug\net10.0\MyCliProject.runtimeconfig.json
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\bin\Debug\net10.0\MyCliProject.dll
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\bin\Debug\net10.0\MyCliProject.pdb
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.dll
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\refint\MyCliProject.dll
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.pdb
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\MyCliProject.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\11.11.2026\MyCliProject\obj\Debug\net10.0\ref\MyCliProject.dll
